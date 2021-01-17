@@ -1,0 +1,48 @@
+<html>
+<head>
+  <title>User Login and Registration</title>
+  <link rel="stylesheet" type="text/css" href="login.css"></link>
+  <link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+</head>
+<body>
+  <!--
+              <div class="social-icons">
+                <img src="face.png">
+                <img src="tw.png">
+                <img src="gp.png">
+            </div>-->
+  <div class="container">
+    <div class="login-box">
+    <div class="row">
+      <div class="col-md-6 login-left">
+        <h2>Please Login</h2>
+        <form action="validation.php" method="post">
+          <div class="form-group">
+            <label>username</label>
+            <input type="text" name="Username" class="form-control" required>
+          </div>
+        <div class="form-group">
+          <label>password</label>
+          <input type="password"  name="Password" class="form-control" required>
+        </div>  
+        <button type="submit" class="btn btn-primary">Login</button>
+      </form>
+    </div>
+      <div class="col-md-6 login-right">
+        <h2>Register here</h2>
+        <form action="registration.php" method="post">
+          <div class="form-group">
+            <label>username</label>
+            <input type="text" name="Username" class="form-control" required>
+          </div>
+        <div class="form-group">
+          <label>password</label>
+          <input type="password"  name="Password" class="form-control" required>
+        </div>  
+        <button type="submit" class="btn btn-primary">Register</button>
+      </form>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

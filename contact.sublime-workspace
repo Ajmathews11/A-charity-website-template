@@ -1,0 +1,280 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sessi",
+				"session_start"
+			],
+			[
+				"s",
+				"s"
+			],
+			[
+				"sess",
+				"session_start"
+			],
+			[
+				"rg",
+				"rgba()\tbackground"
+			],
+			[
+				"regi",
+				"Registration"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"P",
+				"password"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"p",
+				"Password"
+			],
+			[
+				"for",
+				"form-box"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"C",
+				"color\tproperty"
+			],
+			[
+				"border-c",
+				"border-color\tproperty"
+			],
+			[
+				"border",
+				"border-style\tproperty"
+			],
+			[
+				"backgr",
+				"background-color\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"cell",
+				"cellspacing\tAttr"
+			],
+			[
+				"in",
+				"isindex\tTag"
+			],
+			[
+				"l",
+				"li\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"package control:i",
+				"Package Control: Install Package"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"install",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Vikas/Desktop/wt project(charity)/main/kids.jpg",
+		"/C/Users/Vikas/Desktop/wt project(charity)/main/login.php",
+		"/C/Users/Vikas/Desktop/wt project(charity)/main/contact.css",
+		"/C/Users/Vikas/Desktop/wt project(charity)/main/main.css",
+		"/C/Users/Vikas/Desktop/wt project(charity)/main/registration.php",
+		"/C/Users/Vikas/Desktop/wt project(charity)/main/logo.jpg",
+		"/C/Users/Vikas/Desktop/wt project(charity)/main/wave2.png",
+		"/C/Users/Vikas/Desktop/wt project(charity)/main/index.html",
+		"/C/Users/Vikas/Desktop/aws/index.html",
+		"/C/Users/Vikas/Desktop/web dev/html-personal site/contacts.html",
+		"/C/Users/Vikas/Desktop/web dev/html-personal site/hobbies.html",
+		"/C/Users/Vikas/Desktop/web dev/html-personal site/index.html",
+		"/C/Users/Vikas/Desktop/yoooo.html",
+		"/C/Users/Vikas/Desktop/ooo.html",
+		"/C/Users/Vikas/Desktop/web dev/html-personal site/css/styles.css",
+		"/C/Users/Vikas/AppData/Local/Temp/Temp1_CSS Debugging Problems.zip/Debugging Problem 1",
+		"/C/Users/Vikas/AppData/Local/Temp/Temp1_CSS Debugging Problems.zip/Debugging Problem 2",
+		"/C/MAMP/htdocs/demo.com/index.html",
+		"/C/MAMP/htdocs/demo.com/services.html",
+		"/C/MAMP/htdocs/demo.com/portfolio.html",
+		"/C/MAMP/htdocs/demo.com/about.html",
+		"/C/MAMP/htdocs/demo.com/contact.html",
+		"/C/MAMP/htdocs/demo.com/css/main.css",
+		"/C/MAMP/htdocs/demo.com/pop.html"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "contact.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

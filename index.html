@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Agency Website Template</title>
+  <style>
+    html{
+      scroll-behavior: smooth;
+    }
+  </style>
+  <link rel="stylesheet" type="text/css" href="main.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css">
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js"></script>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+</head>
+<body onload="myFunction()">
+  <div id="loading">
+    
+  </div>
+  <section id="nav-bar">
+    <nav class="navbar navbar-expand-lg fixed-top navbar-light bgcolor">
+    <a class="navbar-brand" href="#"><img src="logo.jpg"></a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <i class="fa fa-bars"></i>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item ">
+          <a class="nav-link" href="#top">HOME</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#about-us">ABOUT US</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#services">SERVICES</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#testimonials">MORE</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#footer">CONTACT</a>
+        </li>
+        <li>
+        	<button type="button" class="btn btn-primary" id="login-btn"><a href="login.html">Register now </a></button>
+        </li>
+      </ul>
+    </div>
+    </nav>
+  </section>
+  <!-- banner section-->
+  <section id="banner">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6">
+          <p class="promo-title">VISHVAS TRUST</p>
+          <p>We believe in the good of people </p>
+          <!--<a href="#"><img src="play.png" class="play-btn"> Watch Video</a>-->
+        </div>
+        <div class="col-md-6 text-center">
+          <!--<img src="home2.png" class="img-fluid">-->
+        </div>
+      </div>
+    </div>
+  <!--<img src="wave.png" class="bottom-img">-->
+  <!--About Us-->
+    <section id="about-us">
+      <div class="container">
+        <h1 class="title text-center">A LITTLE ABOUT US</h1>
+        <div class="row">
+          <div class="col-md-6 about-us">
+            <p class="about-title">“Part of being a person is about helping others.” <br>
+            – Regis Murayi</p>
+            <br>
+            <p>We are simple non-governmental organisation based in Bangalore that believes in helping children in need and provide them with basic necessities that they have rights for.Lets all come together and join hands.Be apart of us to be the change.</p>  
+          </div>
+          <div class="col-md-6">
+            <img src="pngegg.jpg" class="img-fluid">
+          </div>
+        </div>
+      </div>
+    </section>
+    <!--services-->
+    <section id="services">
+      <div class="container text-center">
+        <h1 class="title">WHAT WE DO?</h1>
+        <div class="row text-center">
+          <div class="col-md-4 services">
+            <img src="fundlogo.png" class="service-img">
+            <h4>Fundraising</h4>
+             <p>We organise events where people participate for a good cause.Some of the events we organised are 5k marathon,Book sales,Bingo Nights and,etc.We have more fun events planned.
+             <br>
+             Participants till date -10,000    </p>
+          </div>
+          <div class="col-md-4 services">
+            <img src="medlogo.png" class="service-img">
+            <h4>Medical Aid</h4>
+             <p>Children are given necessary medical care that is required for their nourishment and good health.</p>
+          </div>
+          <div class="col-md-4 services">
+            <img src="volenteerlogo.png" class="service-img">
+            <h4>Volenteering</h4>
+             <p>Our organisation indulges in volteering work where we and as well as some of our donars volteer in teaching children. </p>
+          </div>
+        </div>
+        <button type="button" class="btn btn-primary">All Services</button>
+      </div>
+    </section>
+    <!-------Testimmonials------>
+    <section id="testimonials">
+      <div class="container">
+         <h1 class="title text-center">MORE</h1>
+         <div class="row offset-1">
+           <div class="col-md-4 testimonials">
+             <p>Helped </p>
+             <p class="user-details"><b>10,000+ children and counting</b></p>
+           </div>
+           <div class="col-md-4 testimonials">
+             <p>Various centres</p>
+             <p class="user-details"><b>Bangalore</b>
+             <br><b>Mumbai</b>
+             <br><b>Delhi</b> </p>
+         </div>
+         <div class="col-md-4 testimonials">
+             <p>Some of our big partners </p>
+             <p class="user-details">
+              <b> Tata Group</b>
+              <br>
+              <b>Aditya Birla Group</b>
+            </p>
+      </div>
+    </section>
+    <!---Social media  section---->
+    <section id="social-media">
+    <div class="container text-center">
+      <p>FIND US ON SOCIAL MEDIA</p>
+      <div class="social-icons">
+        <a href="#"><img src="fb.png"></a>
+        <a href="#"><img src="ig.png"></a>
+        <a href="#"><img src="tw.jpg"></a>
+        <a href="#"><img src="wa.png"></a>
+        <a href="#"><img src="lk.jpg"></a>
+        <a href="#"><img src="sc.jpg"></a>
+      </div>
+    </div>
+     </section>
+     <!------footer section------->
+     <section id="footer">
+      <!-- <img src="wave2.png" class="footer-img">-->
+       <div class="container">
+         <div class="row">
+           <div class="col-md-4 footer-box">
+              <img src="logo.jpg">
+              <p>BE THE CHANGE </p>
+           </div>
+           <div class="col-md-4 footer-box">
+              <p><b>CONTACT US</b></p>
+              <p><i class="fa fa-map-marker"></i> World Trade Center, Bangalore</p>
+              <p><i class="fa fa-phone"></i> +91 9087654321</p>
+              <p><i class="fa fa-envelope-o"></i> xyz@gmail.com</p>
+              <p>If you like to tell us about something just click on send message below.</p>
+              <button type="button" class="btn btn-primary" id="message-btn"><a href="contact.html">SEND MESSAGE</a></button>
+           </div>
+           <div class="col-md-4 footer-box">
+              <p><b>SUBSCRIBE NEWSLETTER</b></p>
+              <input type="email" class="form-control" placeholder="Your Email">
+              <button type="button" class="btn btn-primary">Subscribe</button>
+           </div>
+         </div>
+         <hr>
+         <p class="copyright">Website crafted by Dude_Excalibur </p>
+       </div>
+     </section>
+  </section>
+  <script>
+    var preloader = document.getElementById('loading');
+    function myFunction(){
+      preloader.style.display='none';
+    }
+  </script>
+  <script>
+    $(window).scroll(function(){
+      $('nav').toggleClass('scrolled',$(this).scrollTop()>300);
+      });
+  </script>
+</body>
+</html>
